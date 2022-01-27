@@ -14,19 +14,22 @@ import by.protest.bot.command.Command;
 import by.protest.bot.command.ParsedCommand;
 import by.protest.bot.domain.entity.CarItem;
 import by.protest.bot.domain.repository.ICarItemRepository;
+import by.protest.bot.domain.repository.ISourceItemRepository;
+import by.protest.bot.domain.repository.SpecificationBuilder;
+import by.protest.bot.helper.Utils;
 import by.protest.bot.instance.Bot;
-import by.protest.helper.SpecificationBuilder;
-import by.protest.helper.Utils;
 
 @Component
 public class RequestHandler {
 	
 	@Autowired
 	private ICarItemRepository carItemRepository;
-	
+
+	@Autowired
+	private ISourceItemRepository sourceRepository;
+
 	@Autowired
 	private Bot bot;
-	
 
 	private SpecificationBuilder specificationBuilder = new SpecificationBuilder();
 	private static final String END_LINE = "\n";
@@ -50,17 +53,30 @@ public class RequestHandler {
 
 	public void operate(String chatId, ParsedCommand parsedCommand, Update update) {
 		if (parsedCommand.getCommand() == Command.START) {
-            sendMessage(chatId,START_MESSAGE.concat(END_LINE).concat(FOLLOWED_MESSAGE));
+			sendMessage(chatId, START_MESSAGE.concat(END_LINE).concat(FOLLOWED_MESSAGE));
 		} else
 			operateRegistrationNumberRequest(chatId, parsedCommand.getText());
 	}
-	
+
 	private void sendMessage(String chatId, String text) {
 		SendMessage sendMessage = new SendMessage();
 		sendMessage.setChatId(chatId);
 		sendMessage.enableMarkdown(true);
 		sendMessage.setText(text);
-        bot.sendQueue.add(sendMessage);
+		bot.sendQueue.add(sendMessage);
+	}
+
+	private void sendMessage(String chatId, String text, List<String> sources) {
+		synchronized (bot.sendQueue) {
+			sendMessage(chatId, text);
+			for (String source : sources) {
+				SendMessage sendMessage = new SendMessage();
+				sendMessage.setChatId(chatId);
+				sendMessage.enableMarkdown(true);
+				sendMessage.setText(source);
+				bot.sendQueue.add(sendMessage);
+			}
+		}
 	}
 
 	private void operateRegistrationNumberRequest(String chatID, String registration) {
@@ -106,22 +122,21 @@ public class RequestHandler {
 				}
 			}
 		}
-		sendMessage(chatID,text.toString());
-		operateResultList(chatID,list);
+		sendMessage(chatID, text.toString());
+		operateResultList(chatID, list);
 	}
-	
-	private void operateResultList(String chatID,List<CarItem> list) {
-		for (CarItem item : list.stream()
-				.sorted((c1, c2) -> c1.getRegistration().compareTo(c2.getRegistration()))
+
+	private void operateResultList(String chatID, List<CarItem> list) {
+		for (CarItem item : list.stream().sorted((c1, c2) -> c1.getRegistration().compareTo(c2.getRegistration()))
 				.collect(Collectors.toList())) {
 			StringBuilder text = new StringBuilder();
 			text.append(LINE.concat(END_LINE));
 			text.append(Utils.convertFromDbRepresentation(item.getRegistration()));
 			text.append(END_LINE);
-			if (item.getMark() != null)
-				text.append(item.getMark()).append(END_LINE);
-			if (item.getColor() != null)
-				text.append(item.getColor()).append(END_LINE);
+			if (item.getMark1() != null)
+				text.append(item.getMark1()).append(END_LINE);
+			if (item.getMark2() != null)
+				text.append(item.getMark2()).append(END_LINE);
 			text.append(item.getDescription()).append(END_LINE);
 			if (item.getSource() != null) {
 				text.append("крыніца інфармацыі: ");
@@ -131,8 +146,13 @@ public class RequestHandler {
 			}
 			text.append(LINE);
 			text.append(END_LINE);
-			sendMessage(chatID,text.toString());
-		};
+			if (item.getSourceAnchor() == null) {
+				sendMessage(chatID, text.toString());
+			} else
+				sendMessage(chatID, text.toString(), sourceRepository.findByAnchor(item.getSourceAnchor()).stream()
+						.map(im -> im.getSource()).collect(Collectors.toList()));
+		}
+		;
 	}
 
 

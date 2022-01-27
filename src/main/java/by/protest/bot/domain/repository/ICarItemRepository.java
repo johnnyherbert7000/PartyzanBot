@@ -8,7 +8,5 @@ import org.springframework.data.repository.CrudRepository;
 import by.protest.bot.domain.entity.CarItem;
 
 public interface ICarItemRepository extends CrudRepository<CarItem,Long>, JpaSpecificationExecutor<CarItem>{
-	
 	public List<CarItem> findByRegistration(String registration);
-
 }

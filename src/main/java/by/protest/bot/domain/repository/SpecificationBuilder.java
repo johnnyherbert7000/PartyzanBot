@@ -1,4 +1,4 @@
-package by.protest.helper;
+package by.protest.bot.domain.repository;
 
 import javax.persistence.criteria.CriteriaBuilder;
 import javax.persistence.criteria.CriteriaQuery;

@@ -27,6 +27,8 @@ public class CarItem {
 	private String description;
 	@Column (name="source")
 	private String source;
+	@Column(name = "source_anchor")
+	private String sourceAnchor;
 	
 	public CarItem() {}
 	
@@ -36,43 +38,75 @@ public class CarItem {
 		this.registration = registration;
 		this.description = description;
 	}
+
+
 	public Long getId() {
 		return id;
 	}
+
+
 	public void setId(Long id) {
 		this.id = id;
 	}
+
+
 	public String getRegistration() {
 		return registration;
 	}
+
+
 	public void setRegistration(String registration) {
 		this.registration = registration;
 	}
-	public String getColor() {
+
+
+	public String getMark1() {
 		return mark1;
 	}
-	public void setColor(String color) {
-		this.mark1 = color;
+
+
+	public void setMark1(String mark1) {
+		this.mark1 = mark1;
 	}
-	public String getMark() {
+
+
+	public String getMark2() {
 		return mark2;
 	}
-	public void setMark(String mark) {
-		this.mark2 = mark;
+
+
+	public void setMark2(String mark2) {
+		this.mark2 = mark2;
 	}
+
+
 	public String getDescription() {
 		return description;
 	}
+
+
 	public void setDescription(String description) {
 		this.description = description;
 	}
+
+
 	public String getSource() {
 		return source;
 	}
+
+
 	public void setSource(String source) {
 		this.source = source;
 	}
-	
-	
+
+
+	public String getSourceAnchor() {
+		return sourceAnchor;
+	}
+
+
+	public void setSourceAnchor(String sourceAnchor) {
+		this.sourceAnchor = sourceAnchor;
+	}
 
 }

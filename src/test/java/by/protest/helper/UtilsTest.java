@@ -6,6 +6,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
+import by.protest.bot.helper.Utils;
+
 public class UtilsTest {
 	
 	@Test
