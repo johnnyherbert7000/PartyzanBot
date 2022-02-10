@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>by.protest</groupId>
 	<artifactId>partyzan</artifactId>
-	<version>1.2.22</version>
+	<version>1.2.23</version>
 	<packaging>war</packaging>
 	<name>partizanBot</name>
 	<properties>
