@@ -72,7 +72,6 @@ public class RequestHandler {
 			for (String source : sources) {
 				SendMessage sendMessage = new SendMessage();
 				sendMessage.setChatId(chatId);
-				sendMessage.enableMarkdown(true);
 				sendMessage.setText(source);
 				bot.sendQueue.add(sendMessage);
 			}
