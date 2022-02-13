@@ -61,7 +61,6 @@ public class RequestHandler {
 	private void sendMessage(String chatId, String text) {
 		SendMessage sendMessage = new SendMessage();
 		sendMessage.setChatId(chatId);
-		sendMessage.enableMarkdown(true);
 		sendMessage.setText(text);
 		bot.sendQueue.add(sendMessage);
 	}
