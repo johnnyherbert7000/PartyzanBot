@@ -99,14 +99,4 @@ public class CarItem {
 		this.source = source;
 	}
 
-
-	public String getSourceAnchor() {
-		return sourceAnchor;
-	}
-
-
-	public void setSourceAnchor(String sourceAnchor) {
-		this.sourceAnchor = sourceAnchor;
-	}
-
 }

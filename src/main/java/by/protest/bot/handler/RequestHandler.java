@@ -51,6 +51,7 @@ public class RequestHandler {
 	private static final String CHECKING_LINE_2 = "PABEPKA";
 	private static final String CHECKING_ANSWER = "Калі гэта была праверка, то з ботам усё нармальна - ён працуе штатна.";
 
+
 	public void operate(String chatId, ParsedCommand parsedCommand, Update update) {
 		if (parsedCommand.getCommand() == Command.START) {
 			sendMessage(chatId, START_MESSAGE.concat(END_LINE).concat(FOLLOWED_MESSAGE));
@@ -144,14 +145,10 @@ public class RequestHandler {
 			}
 			text.append(LINE);
 			text.append(END_LINE);
-			if (item.getSourceAnchor() == null) {
-				sendMessage(chatID, text.toString());
-			} else
-				sendMessage(chatID, text.toString(), sourceRepository.findByAnchor(item.getSourceAnchor()).stream()
-						.map(im -> im.getSource()).collect(Collectors.toList()));
+			sendMessage(chatID, text.toString(), sourceRepository.findByAnchor(item.getRegistration()).stream()
+					.map(im -> im.getSource()).collect(Collectors.toList()));
+
 		}
-		;
+
 	}
-
-
 }
