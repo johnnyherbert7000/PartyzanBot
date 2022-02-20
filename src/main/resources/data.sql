@@ -1,4 +1,6 @@
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4484IP3', 'https://t.me/judge_control/2179');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7138II6', 'https://t.me/dzedTalashPhotoStorage/575');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4344MP5', 'https://t.me/dzedTalashPhotoStorage/585');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5948BH6', 'https://t.me/dzedTalashPhotoStorage/46');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5843EC6', 'https://t.me/dzedTalashPhotoStorage/48');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3220CI', 'https://t.me/dzedTalashPhotoStorage/38');
@@ -9,10 +11,28 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6349MH4', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2489HH7', 'https://t.me/dzedTalashPhotoStorage/37');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2489HH7', 'https://t.me/dzedTalashPhotoStorage/20');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5767MB5', 'https://t.me/dzedTalashPhotoStorage/21');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3294MB4', 'https://t.me/dzedTalashPhotoStorage/567');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9125KE4', 'https://t.me/dzedTalashPhotoStorage/576');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0003AA3', 'https://t.me/dzedTalashPhotoStorage/586');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1089CP7', 'https://t.me/dzedTalashPhotoStorage/115');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4589BA6', 'https://t.me/dzedTalashPhotoStorage/568');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0696CP7', 'https://t.me/dzedTalashPhotoStorage/577');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3380IC7', 'https://t.me/dzedTalashPhotoStorage/587');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4589BA6', 'https://t.me/dzedTalashPhotoStorage/569');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5154HA5', 'https://t.me/dzedTalashPhotoStorage/578');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3388KT7', 'https://t.me/dzedTalashPhotoStorage/588');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0820IE6', 'https://t.me/dzedTalashPhotoStorage/570');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5154HA5', 'https://t.me/dzedTalashPhotoStorage/579');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3388KT7', 'https://t.me/dzedTalashPhotoStorage/589');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0200BA6', 'https://t.me/dzedTalashPhotoStorage/571');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8325HI7', 'https://t.me/dzedTalashPhotoStorage/580');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6835IH3', 'https://t.me/dzedTalashPhotoStorage/571');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5147IK1', 'https://t.me/dzedTalashPhotoStorage/581');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9505PM7', 'https://t.me/badcar_photo1/9');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8238TA7', 'https://t.me/badcar_photo1/12');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9283OK7', 'https://t.me/badcar_photo1/8');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4172EC6', 'https://t.me/dzedTalashPhotoStorage/572');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7801MM5', 'https://t.me/dzedTalashPhotoStorage/582');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1063CH7', 'https://t.me/dzedTalashPhotoStorage/556');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1233IC1', 'https://t.me/motolkohelp/19219');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1233IC1', 'https://t.me/motolkohelp/16160');
@@ -20,6 +40,8 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1396MC4', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9135AO6', 'https://t.me/dzedTalashPhotoStorage/529');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2122IB2', 'https://t.me/dzedTalashPhotoStorage/549');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2001KC5', 'https://t.me/dzedTalashPhotoStorage/560');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4162HX7', 'https://t.me/dzedTalashPhotoStorage/573');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7801MM5', 'https://t.me/dzedTalashPhotoStorage/583');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6527TA7', 'https://t.me/dzedTalashPhotoStorage/351');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9430IK7', 'https://t.me/glazazapad/8849');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1673HX7', 'https://t.me/dzedTalashPhotoStorage/499');
@@ -676,8 +698,6 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9282IK7', 'https://t.me/badca
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1464PC7', 'https://t.me/badcar_photo1/5');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2513AP5', 'https://t.me/badcar_photo1/13');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9701MH7', 'https://t.me/badcar_photo1/15');
-INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9505PM7', 'https://t.me/badcar_photo1/9');
-INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8238TA7', 'https://t.me/badcar_photo1/12');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0010AB7', 'https://t.me/badcar_photo2/4');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4407HX7', 'https://t.me/badcar_photo2/5');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8349PH7', 'https://t.me/badcar_photo2/6');
@@ -696,6 +716,8 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2545HX7', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2919OT7', 'https://t.me/dzedTalashPhotoStorage/557');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6529HK5', 'https://t.me/dzedTalashPhotoStorage/559');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8000KI7', 'https://t.me/dzedTalashPhotoStorage/563');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6892EX6', 'https://t.me/dzedTalashPhotoStorage/574');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1532CK7', 'https://t.me/dzedTalashPhotoStorage/584');
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0404MH7', 'черный', 'БМВ','был замечен как тихарский (без более детальной информации)', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0437MH7', 'черный', 'Мерседес','был замечен как тихарский (без более детальной информации)', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0441MH7', 'черный', NULL,'Пассажирский бус. Был замечен как тихарский.', NULL,);
@@ -848,7 +870,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('385
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2694CC7', 'черный', 'Фольксваген','Пассажирский бус. Был замечен как тихарский.', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0671MI7', NULL, NULL,'был замечен как тихарский (без более детальной информации)', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0002MT5', 'чёрный', 'Toyota','Был замечен на провластных автопробегах "За Батьку"', '',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0003AA3', 'чёрный', 'Opel (универсал)','Был замечен на провластных автопробегах "За Батьку"', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0003HC5', 'тёмно-серебристый металлик', 'Mercedes (кроссовер)','Был замечен на провластных автопробегах "За Батьку"', 'https://auto.tut.by/news/exclusive/707019.html',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6743IK2', 'чёрный', 'Renault','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1577BA2', 'чёрный', 'VW','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
@@ -860,6 +881,7 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('702
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6527TA7', 'чорны', 'Volvo','Прымаў удзел у аўтапрабегах прыхільнікаў фашысцкай хунты. Таксама ёсць дадзеныя дваравых актывістаў, што гэтая машына выкарыстоўвалася як ціхарская', 'https://www.youtube.com/watch?v=upgl5Q-dYD0',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7654TA4', 'бус колера мокрага асфальту', 'VW','Быў заўважаны як ціхарскі', 'Дадзеныя дваравых актывістаў',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9430IK7', 'темно-синий', 'Фольксваген','Пассажирский бус. Был замечен как тихарский.', NULL,);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0003AA3', 'чорны ўніверсал', 'Opel','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0005KE7', 'Серый(?) металлик', 'Mercedes','Свидетели сообщают что люди на этой машине(а также Dodge 2662 KM-7) причастны к налёту на двор по адресу Минск, ул. Железнодорожная, 44 23 декабря 2020.
 
 " тот вечер они не только бегали по двору с охотничьим ножом в руках и срезали наклейки на дверях подъездов, но и напали на случайного прохожего, который шел по улице с телефоном в руках. Двое из доджа попытались затащить человека в авто, а потом утащить в темное место, дабы "вырубить" (с), и лишь крики из окон спугнули бандитов и они отпустили человека. Есть фото/видео материалы того вечера, но, к сожалению, само нападение на человека не попало на видео. О материалах: ябатька, бросающий снежки в флаг, напал на человека и бегал с ножом по двору. Человек с фото из Вайбера определятся как владелец доджа, из которого выскочили нападавшие"', NULL,);
@@ -937,7 +959,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('012
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0139KM5', 'белый', 'Мерседес','участвовал в автопробегах За Батьку', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0164KP1', 'синий', 'Lifan','Участник автопробега (в поддержку беззакония и терроризма) в Новополоцке. Суббота, 14.11.2020г.', 'https://gorod214.by/new/6228',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0192CM7', NULL, 'Geely','участвовал в автопробегах За Батьку', 'https://auto.tut.by/news/exclusive/707019.html',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0200BA6', 'серебристый', 'VW','участвовал в автопробегах За Батьку', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0201TB7', NULL, 'Ford','участвовал в автопробегах За Батьку', 'https://www.youtube.com/watch?v=rT8FyY86thc',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0207EP6', 'чёрный', 'Renault','участвовал в автопробегах За Батьку', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0215MX5', 'красный', 'Lada','участвовал в автопробегах За Батьку', 'https://www.youtube.com/watch?v=8fN0Rs-CdCA',);
@@ -965,7 +986,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('052
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0297HX7', 'чырвоны', 'Kia','Прымаў удзел у аўтапрабегах прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=W7GBnwku6G0',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0653HM7', 'чёрный', 'Honda','Участник автопробега 19.12.2020 в поддержку убийств и пыток мирных граждан, ментовского, судейского, прокурорского и чиновничьего беспредела в Беларуси', 'https://www.youtube.com/watch?v=6E2EB9hrk4E',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0680CP7', 'чёрный', 'Renault Duster','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси (7/11/2020)', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0696CP7', NULL, 'Nissan','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', 'https://www.youtube.com/watch?v=5UHZwTp1Gt4',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('AT07207', NULL, 'Лада (универсал)','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси (3/10/2020)', 'https://www.youtube.com/watch?v=r6asWZl3s2I',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0723MI4', NULL, 'Cherry','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси (7/11/2020)', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0756KB3', NULL, 'Lada Niva','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси (26/12/2020)', 'https://zapadrus.by/uchastniki-patrioticheskix-subbotnix-avtoprobegov-posetili-osipovichi/',);
@@ -973,7 +993,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('077
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0777TK7', 'чёрный', 'Chevrolet(?)','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', 'https://www.youtube.com/watch?v=6E2EB9hrk4E',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0817KC5', 'белый', 'Volkswagen ','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси (28/08/2020)', 'http://youtube.com/watch?v=JqCBIEpk1_E',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0818PT7', 'красный', 'Nissan','Участвовал в автопробнге ябатек Минск-Гродно 31 октября 2020 г и Минск-Жировичи 21 ноября 2020 г.', 'https://zapadrus.by/uspeshnye-belorusy-na-krutyx-avtomobilyax-avtoprobeg-minsk-grodno-fotoreportazh/',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0820IE6', NULL, 'Peugeot','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0848PB7', NULL, 'BMW','Автомобиль ментов-тихарей которые пытались взять админа дворового чата', 'https://t.me/motolkohelp/19292',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0849CT7', 'серебристый', 'Opel ','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси (7/11/2020)', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0876PI7', 'тёмно-серый', 'Volkswagen','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', 'https://www.youtube.com/watch?v=6E2EB9hrk4E',);
@@ -988,6 +1007,7 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('091
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0803MM5', 'серабрысты металіты', 'Volkswagen','Удзельнічаў у аўтапрабегах прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=r6asWZl3s2I',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0872HX7', NULL, 'Nissan X-TRAIL','Предполагаемый владелец: Шапорда Валерия Владимировна, Старший инспектор штаба ОМОН. Капитан милиции.', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0786HB5', NULL, 'Ford','Удзельнічаў у аштапрабегах прыхільнікаў фашысцкай хунты', 'https://vk.com/video-42607865_456245526',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0696CP7', 'цёмны колер', 'Nissan','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=5UHZwTp1Gt4',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0992HB5', 'синий асфальт', 'Kia','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0999BB4', NULL, 'Chrysler','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси 31/10/2020', 'http://lidanews.by/news/life/21145news.html',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1000HI7', 'белый/серый', 'Acura ','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси (февраль 2021)', NULL,);
@@ -1044,7 +1064,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('140
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1266EP7', 'чорны', 'Lancia','Прымаў удзел у аўтапрабегах прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=W7GBnwku6G0',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1233IC1', 'чёрный', 'Mitsubishi Pajero','Неаднаразова быў заўважаны як ціхарскі.', 'дадзеныя дваравых актывістаў',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1396MC4', 'чорны', 'Volkswagen','Удзельнічаў у аўтапрабегах прыхільнікаў фашысцкай хунты', 'сведчанні знойдзены ў сацыяльных сетках',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1532CK7', 'красный', NULL,'Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1545HK5', NULL, 'Нива','Ябатька (Кевра Евгений Владимирович ?)', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('AC15527', 'серый', 'Ford Transit','Бус тихарей', 'https://t.me/motolkohelp/19790',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1569AO7', 'бежевый металлик', 'Toyota','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', NULL,);
@@ -1080,6 +1099,7 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('159
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1517MH5', 'універсал чорнага колеру', NULL,'Прымаў удзел у аўтапрабегах прыхільнікаў фашысцкай хунты
 ', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1766HH7', NULL, 'Toyota ','Удзельнічаў у аўтапрабегах прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=pNwj6kBIGEo',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1532CK7', 'чырвоны (бардовы?)', NULL,'Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6956BC2', 'чорны', 'VW','Прымаў удзел у аўтапрабегах прыхільнікаў фашысцкай хунты', 'https://gorod214.by/new/6228',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2091EH2', NULL, 'Renault','Участник автопробега ябатек 14/11/2020', 'https://t.me/motolkohelp/17361',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2400IA2', NULL, 'VW','Участник автопробега ябатек 14/11/2020', 'https://t.me/motolkohelp/17361',);
@@ -1231,7 +1251,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('707
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5587KX4', 'Lada Kalina (2017) ', 'Серебристый металлик','Шут Виталий Борисович. Ябатька', 'https://t.me/belarusassholes/3183',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0697BP4', 'Mazda Demio (1999)', 'Зелёный металлик','Шут Виталий Борисович. Ябатька', 'https://t.me/belarusassholes/3183',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4272ET3', 'Citroen C5 (2011) ', 'Чёрный металлик','Шевченко Андрей Петрович. Ябатька.', 'https://t.me/belarusassholes/3184',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0365PI7', 'Mercedes-Benz (2007)', 'Чёрный','Бондаренко Светлана Александровна. Ябатька', 'https://t.me/belarusassholes/3185',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3682ET4', 'Опель', 'Серо-голубой','Васильев Валерий Владимирович. Ябатька. Участник спец.операции синепалого террориста по переброске нелегальных мигрантов на территорию Польши и Литвы под дулами автоматов белорусских пограничников.', 'https://t.me/belarusassholes/3189',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6212AO7', 'Крайслер', 'Зелёный металлик','Жигимонт Светлана Вадимовна. Ябатька.', 'https://t.me/belarusassholes/3191',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1418MB4', 'Mercedes-Benz ML350', 'Серебристый ','Хлябич Владимир Андреевич. Председатель Гродненской областной избирательной комиссии', 'https://t.me/belarusassholes/3194',);
@@ -1488,8 +1507,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('934
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9342TB7', 'Серый', 'Ford Transit','/* вызвал сомнения */', '/* данные дворовых активистов */',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9342TB7', NULL, NULL,'/* вызвал сомнения */', '/* данные дворовых активистов */',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9364CX7', NULL, NULL,'OMOH', '/* данные дворовых активистов */',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9372TB7', 'Серый', 'Ford Transit','/* вызвал сомнения */', '/* данные дворовых активистов */',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9372TB7', 'Тёмно-серый', 'Ford Transit','/* вызвал сомнения */', '/* данные дворовых активистов */',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9377CB7', NULL, NULL,'OMOH', '/* данные дворовых активистов */',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9400PH7', 'Серебристый', NULL,'Легковые не тонированные Шкоды, Джили либо Опели с антенной на крыше', '/* данные дворовых активистов */',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9404OT7', 'Белый', 'Газель','ОМОН', '/* данные дворовых активистов */',);
@@ -1838,9 +1855,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('770
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0292KP1', 'Audi Q5', NULL,'Ябатька', 'https://t.me/belarusassholes/3427',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0070EK1', 'Шкода', 'чёрный (?)','принимал участие в автопробегах ябатек', 'https://ont.by/static/article/big/index/7tI40hvlsk6BOdei.jpg',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6239BB6', 'Рено', 'тёмно-серый','принимал участие в автопробегах ябатек', 'https://www.tvr.by/upload/iblock/f42/f4279c119cf0388bcd22875bf4bacf05.jpg',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0200BA6', 'VW', 'серебристый универсал','принимал участие в автопробегах ябатек', 'https://mogilevnews.by/sites/default/files/uploaded/img_8256_0.jpg',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6835IH3', 'Honda', 'серебристый','принимал участие в автопробегах ябатек', 'https://mogilevnews.by/sites/default/files/uploaded/img_8256_0.jpg',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0820IE6', 'Peugeot', 'красный','принимал участие в автопробегах ябатек', 'https://mogilevnews.by/sites/default/files/uploaded/img_8153.jpg',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0020PT7', 'Mazda', 'красный','принимал участие в автопробегах ябатек', 'https://mogilevnews.by/sites/default/files/uploaded/img_0645_3.jpg',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4211KM7', 'Ситроен', 'белый','принимал участие в автопробегах ябатек', 'https://mogilevnews.by/sites/default/files/uploaded/img_0728_1.jpg',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7724EM6', 'Peugeot', 'красный','принимал участие в автопробегах ябатек', 'https://mogilevnews.by/sites/default/files/uploaded/img_0728_1.jpg',);
@@ -1860,6 +1874,9 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('623
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5347BI2', 'VW бус', 'белы','Прымаў удзел у аўтапрабегах прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7597BH5', 'BMW', 'чорны','Прымаў удзел у аўтапрабегах прыхільнікаў фашысцкай хунты', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5481PX7', 'серабрысты металік', 'Ford','Прымаў удзел у аўтапрабегах прыхільнікаў фашысцкай хунты', NULL,);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0820IE6', 'Peugeot', 'чырвоны','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0200BA6', 'VW', 'універсал колеру серабрысты металік','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6835IH3', 'Honda', 'серебристы седан','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5947HA5', 'Джили', 'серебристый','принимал участие в автопробегах ябатек', 'https://www.belta.by/uploads/lotus/news/2020/000023_0B1D4FE65BF20DEA4325863500748AF3_687864.jpg',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4359BC7', 'Mercedes Benz C180', 'жёлтый','ябатька', 'https://t.me/karatelibelarusi/7962',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4963EX1', 'Volkswagen Passat 2007 года', 'Чёрный','семья судьи - ябатьки', 'https://t.me/belarusassholes/3434',);
@@ -1961,7 +1978,7 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('507
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4964CA7', 'Skoda Rapid (2017)', 'Чёрный металлик','Бычек Константин Фёдорович / Начальник отдела следственного управления КГБ.', 'https://t.me/karatelibelarusi/8058',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1510BT3', 'Opel Zafira (2001)', 'Чёрный металлик','Андриевский Сергей Александрович / Начальник ИВС Светлогорского РОВД', 'https://t.me/karatelibelarusi/8053',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1212EE5', 'Volkswagen Jetta', '2008гв','Копишев Александр Анатольевич / Начальник Дзержинского РОВД', 'https://t.me/karatelibelarusi/8050',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5948BH6', 'KIA', 'светлый кроссовер','Принимал участие в автопробегах ябатек.', NULL,);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5948BH6', 'KIA', 'светлы красовер','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0030MK5', 'Nissan X Trail', NULL,'Чемоданова (Пристром) Ольга Николаевна (машина мужа?)', 'https://t.me/karetel/103',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4169MI5', 'Ситроен Пикассо', NULL,'Сергей Гамбицикий / Майор Молодечненского РОВД.', 'https://t.me/karetel/109',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2919MH', 'УАЗ 315195 (2013) ', NULL,'Трус Сергей Александрович / Вертухай с Окрестино', 'https://t.me/karatelibelarusi/8046',);
@@ -2005,7 +2022,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('840
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8403HK7', 'Фольксваген', 'серебристый','Омон', 'https://t.me/glazazapad/9345',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8403BT6', 'Honda CRV', 'Красный','Использовался при задержаниях', 'https://t.me/glazazapad/9338',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('AC08427', 'Форд Транзит', NULL,'Тихари', 'https://t.me/glazazapad/9193',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9372TB7', 'Форд Транзит', 'тёмный','Тихари', 'https://t.me/glazazapad/9180',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2123KE7', 'VW транспортер', 'Чёрный','Тихари', 'https://t.me/glazazapad/9153',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9788CP7', 'GEELY', NULL,'СК', 'https://t.me/glazazapad/9101',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7159IB5', 'Ниссан Кашкай', 'Красный','Приезжали на обыск', 'https://t.me/glazazapad/9068',);
@@ -2047,6 +2063,7 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('696
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3658MK5', 'Toyota', 'синий (асфальт)','Паркуется у Центрального РОВД. 99% что там работает.', '(данные дворовых активистов)',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4367HK7', 'Ford (Mondeo ?)', 'серебристый','Паркуется у Центрального РОВД. 99% что там работает.', '(данные дворовых активистов)',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9496CX7', NULL, 'Серабристы бус','быў заўважаны як ціхарскі', '/* дадзеныя дваравых актывістаў */',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9372TB7', 'Форд Транзит', 'тёмный','Тихари', 'https://t.me/glazazapad/9180',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6433HK5', 'Citroen', 'чёрный','Паркуется у Центрального РОВД. 99% что там работает.', '(данные дворовых активистов)',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0111BP3', 'VW', 'синий (асфальт)','Паркуется у Центрального РОВД. 99% что там работает.', '(данные дворовых активистов)',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9498CX7', 'Джили', 'белый','Паркуется у Центрального РОВД. 99% что там работает.', '(данные дворовых активистов)',);
@@ -2910,3 +2927,96 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('797
 ', '/* дадзеныя актывістаў з Новай Баравой */',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2617AT5', 'Инкассация без зелёной полосы', NULL,'быў заўважаны як ціхарскі', '/* дадзеныя актывістаў з Новай Бараврой */',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2934KI5', 'серабрысты', 'VW Polo sedan','быў заўважаны як ціхарскі', '/* дадзеныя дваравых актывістаў */',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3294MB4', 'чорны', 'VW','Ябацька. Аўтамабіль быў заўважаны з вялікай налепкай у выглядзе чырвона-зялёнага сцягу на капоце.', 'Дадзеныя дваравых актывістаў',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4589BA6', 'цёмна-бардовы', 'VW Passat','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4172EC6', 'чырвоны (бардовы)', 'Nissan','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://mogilevnews.by/news/24-10-2020-20-13/67168',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4162HX7', 'цёмны колер', 'VW Golf','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Знойдзена ў сацыяльных сетках',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6892EX6', 'Плацінавы (?) металік', 'Volkswagen','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7138II6', 'белы', 'VW','Верагодна належыць адной з аўташкол ДОСААФ. Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9125KE4', 'седан чорнага колеру', '','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1520IB6', 'Синий', 'Renault Laguna (1996)','Шишаков Дмитрий Викторович
+Милиционер-конвоир ИВС Минского РУВД.
+Старший сержант милиции.', 'https://t.me/belarusassholes/3705',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1978MC7', 'Чёрный', 'BMW 535 (2010)','Шатров Александр Евгеньевич.
+Соучастник репрессий против граждан РБ.
+До недавнего времени был заместителем директора СИНЕЗИС компании. После попадания компании под европейские санкции передал управление компанией и почти всю свою долю в ней Юрию Сербенкову.', 'https://t.me/belarusassholes/3708',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6750KI5', 'Темно-синий', 'Hyundai Solaris','Вяткин Кирилл Александрович УВД Минского облисполкома
+Управление по раскрытию преступлений в сфере высоких технологий
+Заместитель начальника управления
+Начальник 2 отдела', 'https://t.me/belarusassholes/3710',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5001II7', '', 'Toyota Camry','Шведко Дмитрий Николаевич. Ябатька.
+До недавнего времени являлся директором причастной к репрессиям против граждан РБ фирмы СИНЕЗИС. В прошлом военный.', 'https://t.me/belarusassholes/3711',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0045AO3', 'Серебристый металлик', 'Plymouth Voyager','Поляков Сергей Евгеньевич
+Прислужник и защитник террористического режима, который типа не боится. Помимо поддержки синепалого террориста Поляков еще и активно выражает готовность участвовать в диктаторском цирке под названием референдум, тем самым зарабатывая себе на срок (а все за какую-то квартирку на 65,5 кв/м в ипотеку)', 'https://t.me/belarusassholes/3715',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2261EX2', 'Серебристый', 'Lada Granta 219110 (2015) ','Мацкевич Валерьян Альбинович
+Активный ябатька
+Председатель Витебской областной организации общественного объединения Белорусский союз ветеранов войны в Афганистане.', 'https://t.me/belarusassholes/3716',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0380AC2', 'Чёрный', 'Opel Astra (1999)','Мацкевич Валерьян Альбинович
+Активный ябатька
+Председатель Витебской областной организации общественного объединения Белорусский союз ветеранов войны в Афганистане.', 'https://t.me/belarusassholes/3716',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5133BK2', 'Серебристый металлик', 'Volkswagen Passat 2000','Гимро Виталий Александрович
+Старший следователь 2-го следственного отделения Оршанского МОСК РБ
+Майор юстиции ', 'https://t.me/belarusassholes/3717',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2077EA2', 'Серебристый', 'Ford Gelaxy (2004)','Ольсевич Сергей Иосифович. Ябатька. Председатель Витебской областной организации общественного объединения ветеранов. Член Витебской областной комиссии по референдуму.
+', 'https://t.me/belarusassholes/3718',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9240IK2', 'Бежевый металлик', 'Lada Largus (2019)','Туманова Татьяна Владимировна
+Председатель правления Витебского областного отделения Белорусский фонд мира.
+Член Витебской областной комиссии по референдуму.', 'https://t.me/belarusassholes/3720',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7007HK7', 'Черный металлик', 'Renault Duster (2014)','Иваненко Петр Иванович.
+Бывший прокурор. Отец прокурорши Иваненко Людмилы - гос. обвинителя по делу 0 промилле, отстаивала в суде право своих хозяев оболгать убитого ими же Романа Бондаренко. ', 'https://t.me/belarusassholes/3725',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5765EK2', 'Темно-синий металлик', 'Renault','Родители Бондаренко Светланы - судьи и заместителя председателя суда Московского района г. Минска.', 'https://t.me/belarusassholes/3726',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0365PI7', 'Mercedes-Benz (2007)', 'Чёрный','Бондаренко Светлана Александровна. Ябатька.
+Судья и заместитель председателя суда Московского района г. Минска.
+Причастна к политическим репрессиям.', 'https://t.me/belarusassholes/3185',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1409AT6', 'Красный', 'Volkswagen Golf 1997','Лисовский Максим Станиславович.
+Ябатька.
+Заместитель директора по благоустройству КУП ЖРЭУ Октябрьского района г. Могилёва.', 'https://t.me/belarusassholes/3732',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2430BM6', 'Серебристый', 'Škoda Octavia 2000 года','Шмаенков Александр Олегович Ленинский РОВД г. Могилёва
+Участковый инспектор милиции
+Старший лейтенант', 'https://t.me/belarusassholes/3735',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8699IT3', 'Тёмно-синий', 'Mercedes-Benz C (2001)','Юрковец Алексей Сергеевич
+Милиционер ИВС Калинковичского ГРОВД. Старшина милиции.', 'https://t.me/belarusassholes/3740',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9309ET3', 'Тёмно-зеленый металлик', 'Mazda 626 (1998)','Юрковец Алексей Сергеевич
+Милиционер ИВС Калинковичского ГРОВД. Старшина милиции.', 'https://t.me/belarusassholes/3740',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8676HE5', 'Серебристый', 'Renault Laguna (2002)','Василевич Илья Вячеславович Милиционер-конвоир ИВС Копыльского РОВД.
+Младший сержант милиции.', 'https://t.me/karatelibelarusi/8420',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2772IM4', 'Серебристый металлик', 'Citroën (2008) ','Клишин Владимир Владимирович Прокурор г. Гродно, старший советник юстиции.
+Депутат Гродненского городского совета депутатов.', 'https://t.me/karatelibelarusi/8421',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5234MP4', 'Серый металлик', 'Renault Kadjar (2017)','Клишин Владимир Владимирович
+Прокурор г. Гродно, старший советник юстиции.
+Депутат Гродненского городского совета депутатов.', 'https://t.me/karatelibelarusi/8421',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3862BAB', 'Белый', 'Volkswagen Golf (1991)','Савицкий Андрей Владимирович Милиционер-водитель Сенненского РОВД.
+Младший сержант милиции.', 'https://t.me/karatelibelarusi/8422',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8522EE2', 'Серебристый металлик', 'Škoda Octavia','Казаков Александр Геннадьевич Оршанский РОВД Витебской области
+Инспектор ДПС ГАИ
+Капитан милиции', 'https://t.me/karatelibelarusi/8423',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4546BA2', 'Серый перламутр', 'Renault Laguna 1998 ','Кухарев Андрей Сергеевич Старший участковый инспектор милиции отделения охраны правопорядка и профилактики
+МОБ ОВД Дубровенского райисполкома
+Майор милиции ', 'https://t.me/karatelibelarusi/8433',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4661EX2', 'Темно-синий', 'Audi A6 1997','Кухарев Андрей Сергеевич Старший участковый инспектор милиции отделения охраны правопорядка и профилактики
+МОБ ОВД Дубровенского райисполкома
+Майор милиции ', 'https://t.me/karatelibelarusi/8433',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0967ME5', 'Сине-зелёный', 'Toyota Carina (1993)','Браницкий Игорь Валерьевич Милиционер-дежурный ИВС Любанского РОВД.
+Сержант милиции.', 'https://t.me/karatelibelarusi/8434',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0202HT7', 'Тёмно-синий металлик', 'Audi A6 (2004)','Гладышев Сергей Сергеевич Начальник УКГБ по Брестской области.
+Генерал-майор.', 'https://t.me/karatelibelarusi/8436',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0990MI1', 'Чёрный металлик', 'Mitsubishi Outlander (2020)','Гладышев Сергей Сергеевич Начальник УКГБ по Брестской области.
+Генерал-майор.', 'https://t.me/karatelibelarusi/8436',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8127CA7', 'Серый', 'Nissan Terrano 2014','Иванец Андрей Иванович
+Министр образования
+Возглавлял чистки в рядах сотрудников НАН.
+Много лет является членом Белой Руси', 'https://t.me/belarusassholes/3753',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5318EA6', 'Серебристый', 'Audi A6 (1998)','Фёдоров Владислав Олегович Милиционер-конвоир ИВС Шкловского РОВД.
+Старший сержант милиции.', 'https://t.me/karatelibelarusi/8439',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8908EX6', 'Светло-зеленый перламутр', 'Citroën C5 (2002) ','Немцов Артём Александрович Милиционер-дежурный ИВС Чериковского РОВД. Старшина милиции.', 'https://t.me/karatelibelarusi/8440',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3119IB6', 'Оранжевый', 'Volkswagen Transporter (1996)','Немцов Артём Александрович Милиционер-дежурный ИВС Чериковского РОВД. Старшина милиции.', 'https://t.me/karatelibelarusi/8440',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3654IA6', 'Чёрный', 'Audi 80 (1989)','Немцов Артём Александрович Милиционер-дежурный ИВС Чериковского РОВД. Старшина милиции.', 'https://t.me/karatelibelarusi/8440',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8874EX6', 'Серебристый', 'SEAT Alhambra (1999)','Немцов Артём Александрович Милиционер-дежурный ИВС Чериковского РОВД. Старшина милиции.', 'https://t.me/karatelibelarusi/8440',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9661BC6', 'Бордовый', 'Ford Galaxy (1998)','Немцов Артём Александрович Милиционер-дежурный ИВС Чериковского РОВД. Старшина милиции.', 'https://t.me/karatelibelarusi/8440',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5154HA5', 'чорны джып', 'Nissan','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8325HI7', 'чорны', 'Opel','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Сюжэты на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5147IK1', 'Серабрысты металік (?)', 'Mazda','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7801MM5', 'чорны універсал', 'Audi','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4344MP5', 'белы седан', 'Volkswagen','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3380IC7', 'цёмны колер', 'Lada Vesta','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3388KT7', NULL, 'Ford','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
