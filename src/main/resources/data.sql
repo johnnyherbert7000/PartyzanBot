@@ -5,6 +5,8 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0030MA5', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8445EI5', 'https://t.me/dzedTalashPhotoStorage/609');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9488CI7', 'https://t.me/dzedTalashPhotoStorage/618');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3707IM6', 'https://t.me/dzedTalashPhotoStorage/623');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4819HK7', 'https://t.me/dzedTalashPhotoStorage/638');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3914OH7', 'https://t.me/dzedTalashPhotoStorage/647');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5948BH6', 'https://t.me/dzedTalashPhotoStorage/46');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5843EC6', 'https://t.me/dzedTalashPhotoStorage/48');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3220CI', 'https://t.me/dzedTalashPhotoStorage/38');
@@ -23,6 +25,8 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5329CE7', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7775AC7', 'https://t.me/dzedTalashPhotoStorage/610');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2771CB7', 'https://t.me/dzedTalashPhotoStorage/619');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('AT07207', 'https://t.me/dzedTalashPhotoStorage/625');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5186HH5', 'https://t.me/dzedTalashPhotoStorage/629');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3369AO1', 'https://t.me/dzedTalashPhotoStorage/639');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1089CP7', 'https://t.me/dzedTalashPhotoStorage/115');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4589BA6', 'https://t.me/dzedTalashPhotoStorage/568');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0696CP7', 'https://t.me/dzedTalashPhotoStorage/577');
@@ -32,6 +36,8 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7707KT7', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8508AC7', 'https://t.me/dzedTalashPhotoStorage/611');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3415AO3', 'https://t.me/dzedTalashPhotoStorage/620');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('AT07207', 'https://t.me/dzedTalashPhotoStorage/626');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0043HI7', 'https://t.me/dzedTalashPhotoStorage/630');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3369AO1', 'https://t.me/dzedTalashPhotoStorage/640');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4589BA6', 'https://t.me/dzedTalashPhotoStorage/569');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5154HA5', 'https://t.me/dzedTalashPhotoStorage/578');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3388KT7', 'https://t.me/dzedTalashPhotoStorage/588');
@@ -40,6 +46,8 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7707KT7', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4005AH7', 'https://t.me/dzedTalashPhotoStorage/612');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3415AO3', 'https://t.me/dzedTalashPhotoStorage/621');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1615KK7', 'https://t.me/dzedTalashPhotoStorage/627');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4971IT3', 'https://t.me/dzedTalashPhotoStorage/631');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8804PB7', 'https://t.me/dzedTalashPhotoStorage/641');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0820IE6', 'https://t.me/dzedTalashPhotoStorage/570');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5154HA5', 'https://t.me/dzedTalashPhotoStorage/579');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3388KT7', 'https://t.me/dzedTalashPhotoStorage/589');
@@ -48,18 +56,24 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0595HK5', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9764CI7', 'https://t.me/dzedTalashPhotoStorage/613');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2700ME7', 'https://t.me/dzedTalashPhotoStorage/621');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5628PX7', 'https://t.me/dzedTalashPhotoStorage/628');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7711AM3', 'https://t.me/dzedTalashPhotoStorage/632');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1098BAK', 'https://t.me/motolkohelp/17361');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0200BA6', 'https://t.me/dzedTalashPhotoStorage/571');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8325HI7', 'https://t.me/dzedTalashPhotoStorage/580');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7952IK3', 'https://t.me/dzedTalashPhotoStorage/594');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3070KM7', 'https://t.me/dzedTalashPhotoStorage/604');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1147CP7', 'https://t.me/dzedTalashPhotoStorage/614');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5947HA5', 'https://t.me/dzedTalashPhotoStorage/622');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8723BK7', 'https://t.me/dzedTalashPhotoStorage/633');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1098BAK', 'https://t.me/dzedTalashPhotoStorage/642');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6835IH3', 'https://t.me/dzedTalashPhotoStorage/571');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5147IK1', 'https://t.me/dzedTalashPhotoStorage/581');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6171IB5', 'https://t.me/dzedTalashPhotoStorage/595');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7333KI5', 'https://t.me/dzedTalashPhotoStorage/605');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('7981MX5', 'https://t.me/dzedTalashPhotoStorage/615');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5947HA5', 'https://t.me/dzedTalashPhotoStorage/623');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2298MK5', 'https://t.me/dzedTalashPhotoStorage/634');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('4340KC4', 'https://t.me/dzedTalashPhotoStorage/643');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9505PM7', 'https://t.me/badcar_photo1/9');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8238TA7', 'https://t.me/badcar_photo1/12');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9283OK7', 'https://t.me/badcar_photo1/8');
@@ -69,6 +83,8 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5010MA5', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3169PX7', 'https://t.me/dzedTalashPhotoStorage/606');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2504HI5', 'https://t.me/nashaniva/27187');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5947HA5', 'https://t.me/dzedTalashPhotoStorage/624');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9293PI7', 'https://t.me/dzedTalashPhotoStorage/635');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9388HE7', 'https://t.me/dzedTalashPhotoStorage/644');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1063CH7', 'https://t.me/dzedTalashPhotoStorage/556');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1233IC1', 'https://t.me/motolkohelp/19219');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1233IC1', 'https://t.me/motolkohelp/16160');
@@ -82,6 +98,8 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('3990HE7', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6631AT5', 'https://t.me/dzedTalashPhotoStorage/607');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9304MK4', 'https://t.me/dzedTalashPhotoStorage/616');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2511IC1', 'https://t.me/dzedTalashPhotoStorage/623');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6204IM2', 'https://t.me/dzedTalashPhotoStorage/636');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5453TA7', 'https://t.me/dzedTalashPhotoStorage/645');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('6527TA7', 'https://t.me/dzedTalashPhotoStorage/351');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('9430IK7', 'https://t.me/glazazapad/8849');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1673HX7', 'https://t.me/dzedTalashPhotoStorage/499');
@@ -762,6 +780,8 @@ INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8873PC7', 'https://t.me/dzedT
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('1204EX2', 'https://t.me/dzedTalashPhotoStorage/608');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('2974IA6', 'https://t.me/dzedTalashPhotoStorage/617');
 INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('0653HM7', 'https://t.me/dzedTalashPhotoStorage/623');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('8072CT7', 'https://t.me/dzedTalashPhotoStorage/637');
+INSERT INTO SOURCE_ITEMS (ANCHOR, SOURCE) VALUES ('5453TA7', 'https://t.me/dzedTalashPhotoStorage/646');
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0404MH7', 'черный', 'БМВ','был замечен как тихарский (без более детальной информации)', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0437MH7', 'черный', 'Мерседес','был замечен как тихарский (без более детальной информации)', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0441MH7', 'черный', NULL,'Пассажирский бус. Был замечен как тихарский.', NULL,);
@@ -951,7 +971,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('661
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1110IE2', 'светлый', 'VW','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7563IP2', 'чёрный', 'Peugeot','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2983IE2', 'серебристый', 'Nissan','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1098BAK', 'белый', 'Audi','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2193IE2', 'серебристый', 'Nissan','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5568II2', 'чёрный', 'VW','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7051EM2', 'серебристый', 'Хёндэ','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
@@ -963,6 +982,7 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('240
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2819EH2', 'чёрный', 'Toyota','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1673HX7', 'белый', 'BMW','Владелец - Давыдюк Дмитрий Сергеевич. Проживает г.Минск, ул. Голодеда, д19.
 25/10/2020 набросился на парня с бчб-флагом на улице Уборевича, после чего скрылся.', NULL,);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1098BAK', 'белы', 'Audi','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6905IK2', 'серый', 'Ssang Yong','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6734IP2', 'синяя', 'Lada','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4496BH2', 'красный', 'Дэу','участвовал в автопробеге ябатек в Новополоцке 14/11/2020', NULL,);
@@ -1061,7 +1081,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('102
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1028MM5', 'чёрный', 'BMW ','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси 30/01/2021', 'https://www.youtube.com/watch?v=W7GBnwku6G0',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1041EX1', 'белый', ' Citroen','Ябатька. Предположительно - Ярмошик Светлана Евграфовна', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1050BT6', 'чёрный', 'Kia','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', NULL,);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1098BAK', 'белый', 'Audi 100 (древняя)','Участник автопробега (в поддержку беззакония и терроризма) в Новополоцке. Суббота, 14.11.2020г.', 'https://gorod214.by/new/6228',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1110IE2', NULL, 'Volkswagen','Участник автопробега (в поддержку беззакония и терроризма) в Новополоцке. Суббота, 14.11.2020г.', 'https://gorod214.by/new/6228',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1141CB7', 'чёрный', 'Peugeot','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1145IX7', 'синяя', 'Mazda','Участник автопробегов ябацек в поддержку ментовского, судейского, прокурорского беспредела в Беларуси', NULL,);
@@ -1131,7 +1150,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('182
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1110IE2', NULL, 'VW','Участник автопробега ябатек 14/11/2020', 'https://t.me/motolkohelp/17361',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7563IP2', 'чёрный', 'Peugeot','Участник автопробега ябатек 14/11/2020', 'https://t.me/motolkohelp/17361',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2983IE2', NULL, 'Nissan','Участник автопробега ябатек 14/11/2020', 'https://t.me/motolkohelp/17361',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1098BAK', NULL, 'Audi','Участник автопробега ябатек 14/11/2020', 'https://t.me/motolkohelp/17361',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2193IE2', NULL, 'Nissan','Участник автопробега ябатек 14/11/2020', 'https://t.me/motolkohelp/17361',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1465IK2', NULL, 'Renault','Участник автопробега ябатек 14/11/2020', 'https://t.me/motolkohelp/17361',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2815EH2', NULL, 'Toyota','Участник автопробега ябатек 14/11/2020', 'https://t.me/motolkohelp/17361',);
@@ -1218,7 +1236,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('222
 ябатек', 'http://youtube.com/watch?v=4HHMD5oa988',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('AM22311', NULL, NULL,'использовался как
 тихарский', 'https://t.me/nexta_tv/14298',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2298MK5', NULL, 'Mercedes','участвовал в автопробегах ябатек', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2299IM5', NULL, 'Toyota','участвовал в автопробегах ябатек', NULL,);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2308PK7', NULL, 'Skoda','участвовал в автопробегах
 ябатек', 'https://t.me/avtoprobegizabelarus/2431',);
@@ -1247,6 +1264,7 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('101
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2238HI5', NULL, 'Renault ','участвовал в автопробегах ябатек', 'https://www.youtube.com/watch?v=alPOvuYA7cg&t=197s',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2324EM6', NULL, 'Ford','Удзельнічаў а аўтапрабегах прыхільнікаў фашысцкай хунты', 'https://www.youtube.com/watch?v=iS9pPDXPe9w',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3663KB5', 'металлик', 'Seat Alhambra','Начальник отделения по наркоконтролю и противодействию торговле людьми Слуцкого РОВД Игорь Синкевич. Участвовал в автопробегах сторонников фашистской хунты.', NULL,);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2298MK5', 'чорны', 'Mercedes','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4030EA1', 'Mercedes-Benz E200 ', 'Тесно-серый металлик','Павловская Инна Леонидовна. Судья суда Барановичского района и г. Барановичи.', 'https://t.me/belarusassholes/3089',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2318BH1', 'Volkswagen Passat', 'Серебристый ','Павловская Инна Леонидовна. Судья суда Барановичского района и г. Барановичи.', 'https://t.me/belarusassholes/3089',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1597EE1', 'Пежо 307 ', 'Синий','Лашко Елена Александровна. Ябатька', 'https://t.me/belarusassholes/3090',);
@@ -1668,9 +1686,7 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('826
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0269OB7', 'Hyundai Matrix (2005)', 'Светло-зеленый','Маляревич Наталья Владимировна Причастна к массовым увольнениям учителей', 'https://t.me/belarusassholes/3317',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1070IC3', 'Ниссан X-trail', 'Черный металлик ','Шевцов Сергей Михайлович. Судья', 'https://t.me/belarusassholes/3319',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5381IK3', 'Мазде 6 ', 'Коричневый','Доля (Филипкова) Мария Николаевна. Жена судьи и ябатька', 'https://t.me/belarusassholes/3327',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9535HP7', 'Nissan Qashqai', 'Черный','Бедункевич Михаил Петрович. Начальник управления ГУБОПиК, полковник милиции', 'https://t.me/karatelibelarusi/7811',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3003AX7', 'Volkswagen Polo', 'Серебристый','Караев Юрий Хаджимуратович', 'https://t.me/karatelibelarusi/7813',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4707PX7', 'BMW 318I', 'Чёрный ','Тарасик Иван Александрович Заместитель начальника 1-го отдела 3-го управления ГУБОПиК. Подполковник милиции.', 'https://t.me/belarusassholes/3338',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5355KI4', 'Opel Meriva', 'синий','Хваленя Александр Александрович участник задержания Сергея Тихановского в Гродно', 'https://t.me/belarusassholes/3341',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9393KH4', 'Kia Sorento (2007)', 'Чёрный','Козловский Владимир Сергеевич/ Жертва Сергея Тихановского во всем известной провокации', 'https://t.me/karatelibelarusi/7822',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2602KB4', 'Ford Gelaxy (1998)', 'Светло-фиолетовый металлик','Будник Елена Александровна. Жена Командира группы отряда спецназа УВД Гродненского облисполкома', 'https://t.me/karatelibelarusi/7826',);
@@ -1969,7 +1985,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('547
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0034KP7', 'Dodge', 'серебристый','Принимал участие в автопробегах ябатек.', 'https://zarya.by/assets/img/news/dsc-4899.jpg',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7757IT1', 'Mercedes', 'серебристый','Принимал участие в автопробегах ябатек.', 'https://zarya.by/assets/img/news/dsc-4899.jpg',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3339IM1', 'Audi', 'белый','Принимал участие в автопробегах ябатек.', 'https://zarya.by/assets/img/news/dsc-4899.jpg',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3369AO1', 'Mitsubishi', 'бежевый (серебристый?) металлик','Принимал участие в автопробегах ябатек.', 'http://www.malorita.by/wp-content/uploads/2020/11/1.jpg',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7432KC1', 'Lada', 'чёрный (?)','Принимал участие в автопробегах ябатек.', 'http://www.malorita.by/wp-content/uploads/2020/11/1.jpg',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6320MP4', 'Lada', 'бардово-красный','2020-10-06 г. Брест. Республиканский автопробег ябатек', 'https://youtu.be/0gfuOziQwyU?t=15',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3016BM7', 'VW Jetta(?)', 'тёмный','Принимал участие в автопробегах ябатек.', 'https://www.sb.by/upload/iblock/b54/b54be8c1c5dc8230599c20827350f8c9.jpg',);
@@ -3035,10 +3050,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('020
 Генерал-майор.', 'https://t.me/karatelibelarusi/8436',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0990MI1', 'Чёрный металлик', 'Mitsubishi Outlander (2020)','Гладышев Сергей Сергеевич Начальник УКГБ по Брестской области.
 Генерал-майор.', 'https://t.me/karatelibelarusi/8436',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8127CA7', 'Серый', 'Nissan Terrano 2014','Иванец Андрей Иванович
-Министр образования
-Возглавлял чистки в рядах сотрудников НАН.
-Много лет является членом Белой Руси', 'https://t.me/belarusassholes/3753',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5318EA6', 'Серебристый', 'Audi A6 (1998)','Фёдоров Владислав Олегович Милиционер-конвоир ИВС Шкловского РОВД.
 Старший сержант милиции.', 'https://t.me/karatelibelarusi/8439',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8908EX6', 'Светло-зеленый перламутр', 'Citroën C5 (2002) ','Немцов Артём Александрович Милиционер-дежурный ИВС Чериковского РОВД. Старшина милиции.', 'https://t.me/karatelibelarusi/8440',);
@@ -3103,8 +3114,6 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('620
 Старший сержант милиции.', 'https://telegra.ph/Mlyavyj-Denis-Andreevich-02-20',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4555EA3', 'Бардовы', 'ВАЗ-2106','КАБЗАРАЎ АЛЯКСЕЙ СЯРГЕЯВІЧ
 Старшыня Чэнкаўскага сельсавета.', 'https://t.me/belarusianFascists/4',);
-INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0618BC3', 'Бардовы', 'Renault-19 (1991гв)','КАБЗАРАЎ АЛЯКСЕЙ СЯРГЕЯВІЧ
-Старшыня Чэнкаўскага сельсавета.', 'https://t.me/belarusianFascists/4',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3499IT3', 'Цёмна-чырвоны', 'Nissan Almera Tino (2000 г)','КАБЗАРАЎ АЛЯКСЕЙ СЯРГЕЯВІЧ
 Старшыня Чэнкаўскага сельсавета.', 'https://t.me/belarusianFascists/4',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5497IM3', 'Сіні металік', 'Mazda-6 (2003 г)','КАБЗАРАЎ АЛЯКСЕЙ СЯРГЕЯВІЧ
@@ -3113,3 +3122,202 @@ INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('833
 Актыўны пыхільнік ідэй "русского мира" і іншых дэструктыўных культаў неасавецкага кшталту. Робіць правакацыйныя ды абуральныя пасты а таксама судзейнічае распальванню сацыяльнай ды міжнацыянальнай варожасці ў каментарах у сваёй групе.', 'https://t.me/belarusianFascists/8',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5947HA5', 'серабрысты металік', 'Geely','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
 INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5628PX7', 'шэры металік', 'Hundai','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3154EP6', 'Чёрный', 'Opel Mokka 2014 года','Василькова Наталья Евгеньевна / Доносчица', 'https://telegra.ph/Vasilkova-Natalya-Evgenevna-02-18',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0808BT6', 'Чёрный перламутр', 'Hyundai Santa Fe 2010 года','Мысливец Станислав Сергеевич / Первый заместитель главы администрации г. Могилёв', 'https://telegra.ph/Myslivec-Stanislav-Sergeevich-02-18',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0004AP6', 'Чёрный перламутр', 'Volkswagen Passat 2007 года','Мысливец Станислав Сергеевич / Первый заместитель главы администрации г. Могилёв', 'https://telegra.ph/Myslivec-Stanislav-Sergeevich-02-18',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0411IP6', 'Белый', 'Geely Tugella 2021','Мысливец Станислав Сергеевич / Первый заместитель главы администрации г. Могилёв', 'https://telegra.ph/Myslivec-Stanislav-Sergeevich-02-18',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8127CA7', 'Серый', 'Nissan Terrano 2014','Иванец Андрей Иванович
+Министр образования
+Возглавлял чистки в рядах сотрудников НАН.
+Много лет является членом Белой Руси', 'https://telegra.ph/Ivanec-Andrej-Ivanovich-02-19',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0618BC3', 'Бардовы', 'Renault-19 (1991гв)','КАБЗАРАЎ АЛЯКСЕЙ СЯРГЕЯВІЧ
+Старшыня Чэнкаўскага сельсавета.', 'https://telegra.ph/Kobzarov-Aleksej-Sergeevich-02-20',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6121BE6', 'Бежевый', 'Volkswagen Golf (1984)','Панков Виталий Викторович / Заместитель директора завода Могилевтрансмаш. ', 'https://telegra.ph/Pankov-Vitalij-Viktorovich-02-20',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3300AX2', 'Серебристый металлик', 'Audi A6 (2000)','Лукашов Анатолий Иванович / Председатель Дубровенского районного исполнительного комитета.', 'https://telegra.ph/Lukashov-Anatolij-Ivanovich-02-22',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0220IC4', 'Серебристый металлик', 'Ford Gelaxy (1999)','Трофимов Виктор Николаевич / Начальник ИУОТ № 29 УДИН по Гродненской области. ', 'https://telegra.ph/Trofimov-Viktor-Nikolaevich-02-22',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3010BB4', 'Голубой металлик', 'Peugeot 806 (1995)','Трофимов Виктор Николаевич / Начальник ИУОТ № 29 УДИН по Гродненской области.', 'https://telegra.ph/Trofimov-Viktor-Nikolaevich-02-22',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4488MC7', 'Чёрный', 'Chrysler PT Cruiser 2002 года','Дзюбенко Олег Анатольевич / ябатька / Генеральный детектор Минсктранса', 'https://telegra.ph/Dzyubenko-Oleg-Anatolevich-02-22',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1003BI6', 'Бежевый металлик', 'Subaru Outback (2008)','Исаченко Анатолий Михайлович / На момент событий 2020-21 года заместитель председателя совета республики национального собрания', 'https://telegra.ph/Isachenko-Anatolij-Mihajlovich-02-22',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8929MI1', 'Темно-Бордовый металлик', 'Mazda CX-7 2007 года','Климушко Елена Константиновна / ябатька / Редактор провластной газетенки Навiны Палесся. ', 'https://telegra.ph/Klimushko-Elena-Konstantinovna-02-23',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7737CB7', 'Чёрный металлик', 'Lada Vesta 2018 года','Гулевич Виктор Владимирович / Начальник Генерального штаба Вооруженных Сил ', 'https://telegra.ph/Gulevich-Viktor-Vladimirovich-02-24',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0008PI7', 'Тёмно-серый металлик', 'Škoda Octavia (2015)','Симоненко Артём Сергеевич / сын военного преступника Сергея Симоненко', 'https://telegra.ph/Semya-voennogo-prestupnika-Sergeya-Simonenko-02-24',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4848BP7', 'Темно-зелёный', 'Nissan X-Trail 2021 года','Можиловская Татьяна Николаевна / жена помощника Министра обороны по вопросам военной экономики и финансам', 'https://t.me/belarusassholes/3781',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4747PH7', 'Серебристый металлик', 'Nissan Almera 2016 года','Можиловский Владимир Владимирович / отец военного преступника Можиловского Игоря Владимировича', 'https://t.me/belarusassholes/3781',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4774EB4', 'Темно-синий металлик', 'Citroën C5 2001 года','Голуб Ирина Владимировна / семья Командующего Военно-воздушными силами и войсками противовоздушной обороны Вооруженных Сил Республики Беларусь', 'https://t.me/belarusassholes/3786',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7031AP5', 'Тёмно-синий', 'Volkswagen Golf (1988)','Бурдыко Валерий Федорович / отец заместителя министра обороны по тылу – начальник тыла вооружённых сил', 'https://t.me/belarusassholes/3789',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0192CI7', 'Белый перламутр', 'Toyota Venza (2010)','Бурдыко Светлана Владимировна / жена заместитель министра обороны по тылу – начальник тыла вооружённых сил', 'https://t.me/belarusassholes/3789',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4732AE5', 'Зелёный', 'BMW 320i (2000)','Бурдыко Светлана Владимировна / жена заместитель министра обороны по тылу – начальник тыла вооружённых сил', 'https://t.me/belarusassholes/3789',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0466MH4', 'Чёрная', 'Škoda Octavia 2016 года','Бутранец Максим Викторович / Начальник Сморгонского пограничного отряда. ', 'https://telegra.ph/Butranec-Maksim-Viktorovich-02-27',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5186HH5', 'Серебристый', 'Mitsubishi','Альянах Александр Валерьевич / агрессивный ябатька и приверженец идей русского мира', 'https://t.me/belarusassholes/3805',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7305IK2', 'Темно-серый', 'Volkswagen Touran 2007 года','Булыго Валерий Геннадьевич / Зам. командира бригады 38 ОДШБ (в/ч 92616), подполковник', 'https://t.me/belarusassholes/3808',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5853AT2', 'Голубой металлик', 'Renault Espace 2002 года','Булыго Валерий Геннадьевич / Зам. командира бригады 38 ОДШБ (в/ч 92616), подполковник', 'https://t.me/belarusassholes/3808',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0036AH2', NULL, 'Mercedes Benz 200-D 1991 года ','Булыго Валерий Геннадьевич / Зам. командира бригады 38 ОДШБ (в/ч 92616), подполковник', 'https://t.me/belarusassholes/3808',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0391AI1', 'Серый', 'Volkswagen Passat 1989 года','Зданевич Вадим Леонидович / Начальник КТП, старший прапорщик 38-й отдельной гвардейской десантно-штурмовой бригады', 'https://t.me/belarusassholes/3813',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5492AK1', 'Синий', 'Volkswagen Golf 1993 года','Зданевич Вадим Леонидович / Начальник КТП, старший прапорщик 38-й отдельной гвардейской десантно-штурмовой бригады', 'https://t.me/belarusassholes/3813',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7861KH1', 'Бордовый', 'Renault Espace 2001 года','Касьяник Виктор Валерьевич / Начальник КТП 38-й отдельной гвардейской десантно-штурмовой бригады, старший прапорщик', 'https://t.me/belarusassholes/3814',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7748EX2', 'Чёрный металлик', 'Fiat Bravo 2008 года','Разводовский Андрей Вячеславович / Начальник оперативного отдела - зам. начальника штаба 38-й отдельной гвардейской десантно-штурмовой бригады', 'https://t.me/belarusassholes/3820',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4907EP1', 'Серебристый', 'Opel Zafira 2002 года','Зубель Руслан Викторович / Зам. нач. опреративного отдела штаба 38-й отдельной гвардейской десантно-штурмовой бригады, подполковник', 'https://t.me/belarusassholes/3821',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3802ME1', 'Чёрный', 'Geely Emgrand X7 2020 года','Рассохин Юрий Михайлович / Старший офицер оперативного отдела шаба 38-й отдельной гвардейской десантно-штурмовой бригады, подполковник', 'https://t.me/belarusassholes/3825',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3236BP1', 'Зелёный металлик', 'Opel Astra 2000 года','Рассохин Юрий Михайлович / Старший офицер оперативного отдела шаба 38-й отдельной гвардейской десантно-штурмовой бригады, подполковник', 'https://t.me/belarusassholes/3825',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1914BC4', 'Красный', 'Volkswagen Caddy 2007 года','Ермашев Дмитрий Валерьевич / Офицер оперативного отдела штаба 38-й отдельной гвардейской десантно-штурмовой бригады, майор', 'https://t.me/belarusassholes/3827',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7985KP1', 'Серебристый металлик ', 'Geely Atlas (2018) ','Мойсак Артём Эдуардович / Боец 38-й отдельной гвардейской десантно-штурмовой бригады.
+Майор.', 'https://t.me/belarusassholes/3827',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0642KA1', 'Коричневый', 'Mitsubishi Outlander (2011)','Молодкин Валерий Александрович / Боец 38-й отдельной гвардейской десантно-штурмовой бригады.', 'https://t.me/belarusassholes/3832',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1085KK1', 'Чёрный', 'Nissan Qashqai (2009)','Кравчук Алексей Леонидович / Заместитель начальника штаба (по мобилизационной работе) начальник мобилизационного отдела 38-й отдельной гвардейской десантно-штурмовой бригады.
+Подполковник.', 'https://t.me/belarusassholes/3833',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3380MB1', 'Ярко-синий металлик', 'Skoda Rapid (2019)','Шафранов Александр Александрович / Помощник начальника мобилизационного отдела 38-й отдельной гвардейской десантно-штурмовой бригады.
+Старшина.', 'https://t.me/belarusassholes/3834',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0871MB1', 'Чёрный', 'BMW X3 (2008)','Рудь Вадим Владимирович / Начальник отдела обработки и каталогов - зам начальника штаба 38-й отдельной гвардейской десантно-штурмовой бригады.
+Подполковник.', 'https://t.me/belarusassholes/3835',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7489KK1', 'Синий металлик', 'Volkswagen Passat','Федосенко Александр Евгеньевич / Старший офицер отдела обработки и каталогов штаба 38-й отдельной гвардейской десантно-штурмовой бригады.
+Полковник.', 'https://t.me/belarusassholes/3836',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5942BB1', 'Зелёный металлик', 'Ford Mondeo (1997)','Суховило Сергей Михайлович / Заместитель командира бригады по идеологической работе - начальник отдела по идеологической работе 38-й отдельной гвардейской десантно-штурмовой бригады.
+Полковник.', 'https://t.me/belarusassholes/3840',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1311EP1', 'Красный', 'Opel Zafira (2003)','Суховило Сергей Михайлович / Заместитель командира бригады по идеологической работе - начальник отдела по идеологической работе 38-й отдельной гвардейской десантно-штурмовой бригады.
+Полковник.', 'https://t.me/belarusassholes/3840',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1379KK1', 'Синий металлик', 'Volvo S40 (1996)','Суховило Сергей Михайлович / Заместитель командира бригады по идеологической работе - начальник отдела по идеологической работе 38-й отдельной гвардейской десантно-штурмовой бригады.
+Полковник.', 'https://t.me/belarusassholes/3840',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0014KX1', 'Серый', 'Citroen C4 (2013)','Черник Константин Вячеславович / Старший специалист СПС 8 отдела штаба 38-й отдельной гвардейской десантно-штурмовой бригады.
+Старший прапорщик.', 'https://t.me/belarusassholes/3842',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0177KC1', 'Чёрный', 'Geely Atlas (2018)','Софу Сергей Владимирович / Начальник навигационно-топографической службы штаба 38-й отдельной гвардейской десантно-штурмовой бригады.
+Подполковник. ', 'https://t.me/belarusassholes/3844',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6810KM1', 'Темно-фиолетовый', 'Nissan Qashqai 2009 года','Башкирцев Андрей Михайлович / В/ч 55435 Майор', 'https://telegra.ph/Bashkircev-Andrej-Mihajlovich-03-02',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0046KK1', 'Серебристый металлик', 'Volkswagen Passat (2006)','Шепетюк Роман Анатольевич / Старший офицер юридической службы 38-й отдельной гвардейской десантно-штурмовой бригады.
+
+Капитан юстиции.', 'https://telegra.ph/SHepetyuk-Roman-Anatolevich-03-02',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4791KC1', 'Серо-зелёный металлик', 'Renault Megane (2006)','Василюк Юрий Викторович / Начальник поста СПС 8 отделения штаба 38-й отдельной гвардейской десантно-штурмовой бригады.
+Прапорщик.', 'https://t.me/belarusassholes/3853',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8045KX1', 'Чёрный', 'Opel Astra (2012)','Зайцев Сергей Александрович / Начальник отделения БП 38-й отдельной гвардейской десантно-штурмовой бригады.
+Подполковник.', 'https://t.me/belarusassholes/3856',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9500PB7', 'Черный', 'Kia Sorento (2011)','Тозик Виктор Афанасьевич / ябатька / Заместитель генерального директора государственного предприятия "
+Минсктранс', 'https://t.me/belarusassholes/3857',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6957MA1', 'Серо-коричневый', 'Citroen C4 Picasso (2015)','Кашкур Дмитрий Чеславович / Офицер 38-й отдельной гвардейской десантно-штурмовой бригады.
+Майор.', 'https://t.me/belarusassholes/3858',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2625MB1', 'Чёрный металлик', 'Chrysler Pacifica (2017)','Михалкевич Пётр Владимирович / Начальник юридической службы 38-й отдельной гвардейской десантно-штурмовой бригады.
+
+Подполковник юстиции.', 'https://telegra.ph/Mihalkevich-Pyotr-Vladimirovich-03-02',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5020BA1', 'Зелёный', 'Pegiot 806 (2001)','Михалкевич Пётр Владимирович / Начальник юридической службы 38-й отдельной гвардейской десантно-штурмовой бригады.
+
+Подполковник юстиции.
+
+Сейчас 38 ОДШБ находится в полной боевой готовности, чтобы по преступному приказу атаковать Украину.', 'https://telegra.ph/Mihalkevich-Pyotr-Vladimirovich-03-02',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5492TA7', 'Белый', 'Mercedes Benz E250 2009 года','Немогай Наталья Владимировна / Телеведущая ОНТ / ябатька', 'https://telegra.ph/Nemogaj-Natalya-Vladimirovna-03-02',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1642CB7', 'Белый', 'Volkswagen Passat CC 2014 года','Немогай Наталья Владимировна / Телеведущая ОНТ / ябатька', 'https://telegra.ph/Nemogaj-Natalya-Vladimirovna-03-02',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2243PK7', 'Голубой металлик', 'Dodge Neon 2002 года','Родители пропагандистки ОНТ Немогай Натальи Владимировны', 'https://telegra.ph/Roditeli-lyudoedki-propagandistki-Nemogaj-03-02-2',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6007EM4', 'Тёмно-серый металлик', 'BMW 324 (1986)','Крайний Александр Игоревич / Инструктор (по рукопашному бою) ОБП 38-й отдельной гвардейской десантно-штурмовой бригады.
+
+Прапорщик.', 'https://telegra.ph/Krajnij-Aleksandr-Igorevich-03-02',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7252EX1', 'Серебристо-голубой', 'Toyota Avensis (2008)','Крук Александр Сергеевич / Старший офицер автомобильной службы 38 ОДШБ.
+Капитан.', 'https://t.me/belarusassholes/3870',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6677EC1', 'Серебристый', 'Peugeot 307 (2007)','Баровский Юрий Юрьевич / Начальник автомобильной службы технической части 38 ОДШБ.
+Майор.', 'https://t.me/belarusassholes/3871',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1112KE1', 'Серебристая', 'Toyota Corolla Verso (2008)','Лопато Дмитрий Николаевич / Старший офицер-инструктор по альпинистской подготовке отделения воздушно-десантной подготовки воздушно-десантной службы 38 ОДШБ. Майор', 'https://t.me/belarusassholes/3873',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8910AA6', 'Бело-синий', 'Suzuki GSX R (1998)','Шкрадюк Дмитрий Николаевич / Старший офицер отдела воздушно-десантной подготовки воздушно-десантной службы 38-й отдельной гвардейской десантно-штурмовой бригады 38 ОДШБ.
+Капитан.', 'https://t.me/belarusassholes/3875',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0715EH1', 'Тёмно-серый металлик', 'Citroen Xsara Picasso (2001)','Ермолаев Дмитрий Викторович / Начальник отдела кадров 38-й отдельной гвардейской десантно-штурмовой бригады 38 ОДШБ.
+Подполковник.', 'https://t.me/belarusassholes/3877',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1714KT1', 'Чёрный', 'BMW X5 (2004)','Козел Василий Васильевич / Начальник БТ службы технической части 38-й отдельной гвардейской десантно-штурмовой бригады 38 ОДШБ.
+
+Подполковник.', 'https://telegra.ph/Kozel-Vasilij-Vasilevich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0420KI1', 'Черный', 'Mazda Hatchback (2002)','Гуня Николай Яковлевич / Старший офицер БТ службы технической части 38 ОДШБ.
+
+Майор.', 'https://telegra.ph/Gunya-Nikolaj-YAkovlevich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1323BH1', NULL, 'Ford Mondeo (1998)','Шкута Павел Вячеславович / Заместитель командира бригады по тылу - начальник тыла 38-й отдельной гвардейской десантно-штурмовой бригады 38 ОДШБ.
+
+Полковник.', 'https://telegra.ph/SHkuta-Pavel-Vyacheslavovich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5245AK1', 'Серебристый металлик', 'Opel Omega (1996)','Шкута Павел Вячеславович / Заместитель командира бригады по тылу - начальник тыла 38-й отдельной гвардейской десантно-штурмовой бригады 38 ОДШБ.
+Полковник.', 'https://telegra.ph/SHkuta-Pavel-Vyacheslavovich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8862EA1', 'Светло-зелёный металлик', 'Opel Zafira (2001)','Ращевский Сергей Анатольевич / Начальник службы ГСМ тыла 38-й отдельной гвардейской десантно-штурмовой бригады.
+Майор.', 'https://telegra.ph/Rashchevskij-Sergej-Anatolevich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4555KT1', 'Чёрный', 'Mercedes Benz E220 (2009)','Жегулович Александр Сергеевич / Начальник продовольственной службы тыла 38-й отдельной гвардейской десантно-штурмовой бригады 38 ОДШБ.', 'https://telegra.ph/ZHegulovich-Aleksandr-Sergeevich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2283EC1', 'Чёрный', 'Opel Zafira (2001)','Штык Сергей Владимирович / Заместитель командира смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады 38 ОДШБ.
+Майор.', 'https://telegra.ph/SHtyk-Sergej-Vladimirovich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2022IC1', 'серый', 'Audi A4 (2005)','Якимук Артём Сергеевич / Офицер вещевой службы тыла смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.', 'https://telegra.ph/YAkimuk-Artyom-Sergeevich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0043HI7', 'Серый металлик', 'BMW-730 2009 года','Луговой Максим Павлович / Сторонник русских фашистов', 'https://telegra.ph/Lugovoj-Maksim-Pavlovich-03-04',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8969EP1', 'Серебристый', 'BMW (2003)','Гордеюк Андрей Степанович / Командир дивизиона, помощник командира бригады по артиллерии смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.
+Подполковник.', 'https://t.me/belarusassholes/3896',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5165BM1', 'Синий', 'Opel Vectra (1996)','Гордеюк Андрей Степанович / Командир дивизиона, помощник командира бригады по артиллерии смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.
+Подполковник.', 'https://t.me/belarusassholes/3896',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4964KC1', NULL, 'Volvo V50 (2010)','Туркевич Виктор Владимирович / Заместитель начальника штаба, начальник разведки смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.
+Капитан.', 'https://telegra.ph/Turkevich-Viktor-Vladimirovich-03-04',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7246AE1', 'Черно-серебристый', 'Suzuki GSX R600 1998 года','Собко Евгений Владимирович / Старшина батареи смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.
+Старшина ', 'https://telegra.ph/Sobko-Evgenij-Vladimirovich-03-04',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4554BH1', 'Чёрный металлик', 'BMW-730 1998 года','Завадич Сергей Александрович / Старший техник батареи смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.', 'https://telegra.ph/Zavadich-Sergej-Aleksandrovich-03-04',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0654ME1', 'Темно-зелёный', 'Saab 9-3 1998 года','Голубцов Евгений Александрович / Командир взвода смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.
+Старший лейтенант ', 'https://telegra.ph/Golubcov-Evgenij-Aleksandrovich-03-06',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4419EC1', 'Серо-черный', 'Renault Laguna (2001) ','Утынко Александр Васильевич / Командир батареи противотанковых управляемых ракет смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.', 'https://telegra.ph/Utynko-Aleksandr-Vasilevich-03-06',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1042MI1', 'Серебристый', 'BMW 525 (2002)','Сивый Евгений Юрьевич / Командир взвода смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.
+Лейтенант.', 'https://telegra.ph/Sivyj-Evgenij-YUrevich-03-06',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1447KM1', 'Серо-зелёный металлик', 'BMW-320 2001 года','Улитич Сергей Владимирович / Командир взвода смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.', 'https://telegra.ph/Ulitich-Sergej-Vladimirovich-03-06',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8103IK1', 'Красный', 'Ford Focus (2010)','Бурыкин Павел Сергеевич / Заместитель командира по тылу смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.', 'https://telegra.ph/Burykin-Pavel-Sergeevich-03-04',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4788EM1', 'Белый', 'Audi A4 (1997)','Колодинский Владислав Эдуардович / Боец 38-й Брестской отдельной десантно-штурмовой бригады / проголосовал на референдуме, сфотографировался для пропагандистов', 'https://t.me/belarusassholes/3936',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4460MM4', 'Темно-зеленый', 'Volkswagen Passat (1995)','Бахар Денис Иванович / Боец 38-й Брестской отдельной десантно-штурмовой бригады / проголосовал на референдуме, сфотографировался для пропагандистов', 'https://telegra.ph/Bahar-Denis-Ivanovich-03-08',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8251MA1', 'Синий', 'Opel Omega (1996)','Трухнов Дмитрий Александрович / Боец 11-й гвардейской отдельной механизированной бригады.
+Снимался в массовке пропагандистского ролика в поддержку так называемого референдума.', 'https://telegra.ph/Truhnov-Dmitrij-Aleksandrovich-03-09',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2380MA1', 'темно-зеленый', 'Ford (1995)','Таруц Андрей Владимирович / Боец 38-й Брестской отдельной десантно-штурмовой бригады / снимался в массовке в поддержку так называемого референдума', 'https://telegra.ph/Taruc-Andrej-Vladimirovich-03-09',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4971IT3', 'серебристый металлик', 'Volkswagen','Долголаптев Илья Васильевич / сторонник русского фашизма', 'https://telegra.ph/Dolgolaptev-Ilya-Vasilevich-03-10',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7711AM3', 'серабрысты металік', 'Audi','Карпенка Іван Мікалаевіч / Прыхільнік рускага фашызму', 'https://telegra.ph/Karpenko-Ivan-Nikolaevich-03-11',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2300HE7', 'Чёрный', 'Renault Kaptur (2017)','Ерашов Сергей Владимирович / Заместитель начальника управления главного следственного управления центрального аппарата следственного комитета. ', 'https://telegra.ph/Erashov-Sergej-Vladimirovich-03-12',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4491ME1', 'Серебристый', 'Renault Laguna (2001)','Корзан Игорь Николаевич / Командир гаубично-артиллерийской батареи смешанного артиллерийского дивизиона 38-й отдельной гвардейской десантно-штурмовой бригады.', 'https://telegra.ph/Korzan-Igor-Nikolaevich-03-12',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2986PX7', 'Красный седан', 'Mazda 3 (2008)','Фурса Иван Марьянович / прикорытный ябатька', 'https://telegra.ph/Fursa-Ivan-Maryanovich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1369AO7', 'Серебристый', 'Mitsubishi Montero (2002)','Фурса Иван Марьянович / прикорытный ябатька', 'https://telegra.ph/Fursa-Ivan-Maryanovich-03-03',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3267CC7', 'Чёрный металлик', 'KIA RIO (2019)','Гололобов Константин Сергеевич / системный ябатька', 'https://telegra.ph/Gololobov-Konstantin-Sergeevich-03-13',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9639II7', 'Синий', 'Volkswagen Transporter (1997)','Гололобов Константин Сергеевич / системный ябатька', 'https://telegra.ph/Gololobov-Konstantin-Sergeevich-03-13',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3110EB2', 'Тёмно-серый металлик', 'BMW 530 (2001)','Борисенко Руслан Петрович / Начальник отдела следственного управления по УСК г. Минска.', 'https://telegra.ph/Borisenko-Ruslan-Petrovich-03-13',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4654MI4', 'Тёмно-серый', 'Ford Mondeo (2015)','Молостов Константин Геннадьевич / Начальник Гродненской пограничной группы.', 'https://telegra.ph/Molostov-Konstantin-Gennadevich-02-27',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8723BK7', 'Бордовый металлик', 'Suzuki Wagon R (1997)','Успенский Михаил Богданович / активный сторонник русского фашизма и геноцида украинского народа', 'https://t.me/belarusassholes/4014',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3102ET1', 'Голубой металлик', 'Pegiot 307 (2003)','Адамчик (Сорговицкая) Ирина Михайловна / Вокалистка провластной группы Галасы ЗМеста, поющей бредовые треки в защиту режима и оскорбляющие сторонников перемен. / В 2020 году участвовала в фальсификации выборов ', 'https://telegra.ph/Adamchik-Sorgovickaya-Irina-Mihajlovna-03-16',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6604IB6', 'Черно-белый', 'Renault Kaptur (2017)','Петракович Андрей Николаевич / Директор РУПП ИК 9 ДИН МВД.
+Подполковник внутренней службы.', 'https://telegra.ph/Petrakovich-Andrej-Nikolaevich-03-16',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5688BH7', 'Серебристый металлик', 'BMW 318 (1998)','Серебристый металлик / Минский городской суд. Судья.', 'https://telegra.ph/Hripach-Sergej-Fyodorovich-03-17',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5998EM3', 'Toyota (2004)', 'Toyota (2004)','Макаревич Зинаида Михайловна / Председатель комитета профсоюзов.
+Помощница депутата Калинковичского района.', 'https://telegra.ph/Makarevich-Zinaida-Mihajlovna-03-17',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6381HP7', 'Чёрный', 'Nissan Teana 2014 года','Плис Вадим Викторович / Пенсионер КГБ /
+Зам. директора по безопасности Метрополитена. /
+Во время протестов закрывал станции метро, сотрудничал с тихарями. ', 'https://telegra.ph/Plis-Vadim-Viktorovich-03-18',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8752HK7', 'Серебристый Металлик', 'Kia Sportage 2013 года','Плис Вадим Викторович / Пенсионер КГБ /
+Зам. директора по безопасности Метрополитена. /
+Во время протестов закрывал станции метро, сотрудничал с тихарями. ', 'https://telegra.ph/Plis-Vadim-Viktorovich-03-18',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1562KE7', 'Серебристый', 'Toyota Corolla 2008 года','Сидорко (Кишурно) Екатерина Николаевна / Ябатька доносчица.
+21.09.2020 донесла на своих соседей за БЧБ в окне. ', 'https://telegra.ph/Sidorko-Kishurno-Ekaterina-Nikolaevna-03-20',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8677KP7', 'Черный', 'Toyota Auris Hatchback (2007)','Шпилевская Ольга Александровна / Директор ТРК МИР', 'https://t.me/belarusassholes/4036',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9047EP6', 'Тёмно-серый', 'Škoda Octavia (2012)','Жуков Игорь Вячеславович / Заместитель начальника главного управления Комитета государственной безопасности.', 'https://t.me/belarusassholes/4038',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2567AX6', 'Тёмно-зеленый', 'Citroën Xantia (1996)','Жуков Игорь Вячеславович / Заместитель начальника главного управления Комитета государственной безопасности.', 'https://t.me/belarusassholes/4038',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1559AE6', NULL, 'BMW 326','Жуков Игорь Вячеславович / Заместитель начальника главного управления Комитета государственной безопасности.', 'https://t.me/belarusassholes/4038',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9535HP7', 'Nissan Qashqai', 'Черный','Бедункевич Михаил Петрович. Начальник управления ГУБОПиК, полковник милиции', 'https://telegra.ph/Bedunkevich-Mihail-Petrovich-03-19',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4707PX7', 'BMW 318I', 'Чёрный ','Тарасик Иван Александрович Заместитель начальника 1-го отдела 3-го управления ГУБОПиК. Подполковник милиции.', 'https://telegra.ph/Tarasik-Ivan-Aleksandrovich-03-19',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1896PI7', 'Синий металлик', 'Audi A6 (2007)','Драневич Константин Валентинович / Старший оперуполномоченный по ОВД 2 отдела 3 управления ГУБОПиК', 'https://telegra.ph/Dranevich-Konstantin-Valentinovich-03-19',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7220HH5', 'Синий', 'Peugeot Talbot 307 (2003)','Лапуцкая Анастасия Дмитриевна / Лейтенант ССО.
+Сотрудница фабрики троллей на базе 742-го полевого узла связи.', 'https://telegra.ph/Lapuckaya-Anastasiya-Dmitrievna-03-24',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('2466PT7', 'Черный перламутр', 'Volkswagen Passat 2009 года','Фионин Владислав Игоревич / в/ч 35703
+Помощник начальника отделения идеологической работы. ', 'https://telegra.ph/Fionin-Vladislav-Igorevich-03-24',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8703ME5', 'Серебристый', 'Hyundai Accent 2016 года','Лапуцкий Андрей Дмитриевич / В/ч 97069 / брат сотрудницы фабрики троллей', 'https://t.me/belarusassholes/4048',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6128ME5', 'Черный', 'Hyundai Accent 2016 года','Лапуцкий Дмитрий Александрович / Пенсионер минобороны, в/ч 43064 / отец сотрудницы фабрики троллей', 'https://t.me/belarusassholes/4049',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8252II2', 'Серебристый', 'Opel Zafira (2003)','Панкин Андрей Александрович / Боец ССО. Заместитель руководителя фабрики троллей на базе 742-го полевого узла связи.', 'https://telegra.ph/Pankin-Andrej-Aleksandrovich-03-24',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3362PB7', 'Бордовый металлик', 'Citroen C3 (2002)','Байков Сергей Александрович / Полковник ССО. /
+Руководитель фабрики троллей на базе 742-го полевого узла связи.', 'https://telegra.ph/Bajkov-Sergej-Aleksandrovich-03-25',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3613HK5', 'Чёрный', 'Toyota Land Cruiser (2006)','Быков Александр Валерьевич / Командир части внутренних войск.
+В/Ч 3032
+Подполковник.', 'https://telegra.ph/Bykov-Aleksandr-Valerevich-03-25',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3601AX7', 'Тёмно-синий', 'Audi 100 (1992)','Быков Александр Валерьевич / Командир части внутренних войск.
+В/Ч 3032
+Подполковник.', 'https://telegra.ph/Bykov-Aleksandr-Valerevich-03-25',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3954EK5', 'Серебристый', 'Opel Astra (1999)','Прохоревич Игорь Евгеньевич / Заместитель начальника режимного отдела тюрьмы № 8.
+Старший лейтенант внутренней службы.', 'https://telegra.ph/Prohorevich-Igor-Evgenevich-03-25',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5055EC6', 'Белый', 'Škoda Octavia 2014 года','Самулёв Андрей Михайлович / ГУБОПиК', 'https://t.me/belarusassholes/4055',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5383EE6', 'Фиолетовый', 'ВАЗ-21053 1999 года','Самулёв Андрей Михайлович / ГУБОПиК', 'https://t.me/belarusassholes/4055',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7863EX6', 'Серо-коричневый металлик', 'Audi A6 1995 года','Секретарева Татьяна Анатольевна / Судья суда Октябрьского района г. Могилева', 'https://telegra.ph/Sekretareva-Tatyana-Anatolevna-03-26',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('7409EP6', 'Красный', 'Nissan Qashqai 2011 года','Заричнюк Ольга Владимировна / Судья суда Октябрьского района г. Могилева', 'https://t.me/belarusassholes/4062',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('1349BH6', 'Синий', 'Toyota Corolla (2002)','Лукашевич Валентина Васильевна / Судья суда Октябрьского района г. Могилева.', 'https://t.me/belarusassholes/4063',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8015IB4', 'Тёмно-синий', 'Renault Megane (2002)','Дойлидко Станислав Зигмундович / Подполковник внутренней службы в отставке / Один из героев сюжета об «избитом насмерть мигранте», который госпропаганда использует для демонизации Литвы. Дойлидко представляется человеком, который сообщил о мигранте в пограничную заставу.', 'https://nashaniva.com/?c=ar&i=276164&lang=ru',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('0769MP4', 'Черный', 'Renault Duster (2019)','Дойлидко Станислав Зигмундович / Подполковник внутренней службы в отставке / Один из героев сюжета об «избитом насмерть мигранте», который госпропаганда использует для демонизации Литвы. Дойлидко представляется человеком, который сообщил о мигранте в пограничную заставу.', 'https://nashaniva.com/?c=ar&i=276164&lang=ru',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9293PI7', 'чорны', 'BMW','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('6204IM2', 'сіні', 'Volvo','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8072CT7', 'серабрысты металік', 'Hundai Accent','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сацыяльных сетак',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4819HK7', 'цёмны колер', 'Skoda','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сацыяльных сетак',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3369AO1', 'Mitsubishi', 'серабрысты металік','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('8804PB7', 'чорны', 'BMW','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('4340KC4', 'цёмны колер', 'Lada','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('9388HE7', 'светлы колер', 'Skoda','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('5453TA7', NULL, 'BMW','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
+INSERT INTO CAR_ITEMS (REGISTRATION,MARK1,MARK2,DESCRIPTION,SOURCE) VALUES ('3914OH7', 'чорны', 'Mercedes','Аўтамабіль быў заўважаны сярод удзельнікаў аўтапрабегаў прыхільнікаў фашысцкай хунты', 'Фотаздымкі з сюжэтаў на прапагандысцкіх рэсурсах',);
